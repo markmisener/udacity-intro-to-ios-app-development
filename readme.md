@@ -16,7 +16,6 @@ This app is was built by following Udacity's free [iOS Networking with Swift](ht
 
 By incorporating networking, apps truly become “mobile” -- interacting with interesting data using popular web services. In this project, you’ll build your first networked app that displays information posted by other Udacity students. You’ll create a map view with pins representing student locations, and by tapping a pin, the app will display a custom URL posted by a student.
 
-
 ### VirtualTourist
 This app is was built by following Udacity's free [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325) course.
 
@@ -26,3 +25,6 @@ Tour the world without leaving the comforts of your couch! In this project, you�
 This app is was built by following Udacity's free [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607) course.
 
 Landing a job as an iOS Developer requires more than technical skills; it requires creativity and innovation. Drawing on everything you’ve learned so far in the Nanodegree, you'll now dream up, design, and code your own custom app.
+
+### SupplementalApps
+These are additional apps built during the course of the above classes.
