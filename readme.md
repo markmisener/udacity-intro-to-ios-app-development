@@ -27,4 +27,4 @@ This app is was built by following Udacity's free [How to Make an iOS App](https
 Landing a job as an iOS Developer requires more than technical skills; it requires creativity and innovation. Drawing on everything you’ve learned so far in the Nanodegree, you'll now dream up, design, and code your own custom app.
 
 ### SupplementalApps
-These are additional apps built during the course of the above classes.
+These are additional projects created (or built upon the existing work of others) during the course of the above classes. These projects helped to reinforce key concepts learned during the program.
